@@ -129,6 +129,13 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+.idea
+.idea/*.xml
+*.iml
+gen
+build
+rebel.xml
+
 ### Node Patch ###
 # Serverless Webpack directories
 .webpack/
